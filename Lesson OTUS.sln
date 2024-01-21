@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DZ.Test", "DZ.Test.csproj", "{F2EC0B77-7F56-B089-EA6D-74C646A6F6BE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DZ", "DZ.csproj", "{A18E22BA-F009-23CC-EDEA-B416A2607218}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{35933D3D-F1FF-C17A-471C-9E4F55B1E04D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F2EC0B77-7F56-B089-EA6D-74C646A6F6BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2EC0B77-7F56-B089-EA6D-74C646A6F6BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2EC0B77-7F56-B089-EA6D-74C646A6F6BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2EC0B77-7F56-B089-EA6D-74C646A6F6BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A18E22BA-F009-23CC-EDEA-B416A2607218}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A18E22BA-F009-23CC-EDEA-B416A2607218}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A18E22BA-F009-23CC-EDEA-B416A2607218}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A18E22BA-F009-23CC-EDEA-B416A2607218}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35933D3D-F1FF-C17A-471C-9E4F55B1E04D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35933D3D-F1FF-C17A-471C-9E4F55B1E04D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35933D3D-F1FF-C17A-471C-9E4F55B1E04D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35933D3D-F1FF-C17A-471C-9E4F55B1E04D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

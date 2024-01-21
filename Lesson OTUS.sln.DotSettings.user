@@ -1,0 +1,8 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/CodeInspection/ExcludedFiles/FilesAndFoldersToSkip2/=A18E22BA_002DF009_002D23CC_002DEDEA_002DB416A2607218_002Fd_003AAssets_002Fd_003ADZ_002Fd_003AScripts_002Ff_003ALessonTypes_002Ecs/@EntryIndexedValue">ExplicitlyExcluded</s:String>
+	<s:String x:Key="/Default/CodeInspection/ExcludedFiles/FilesAndFoldersToSkip2/=BA228EA1_002D09F0_002DCC23_002DEDEA_002DB416A2607218_002Fd_003AAssets_002Fd_003ADZ_002Fd_003AScripts_002Ff_003ALessonTypes_002Ecs/@EntryIndexedValue">ExplicitlyExcluded</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=c7c3ffff_002D8fdd_002D4f2e_002D830f_002D50333593aaa0/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="SqrTest" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::770BECF2-567F-89B0-EA6D-74C646A6F6BE::.NETFramework,Version=v4.7.1::Tests.LessonTypesTests.SqrTest&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
